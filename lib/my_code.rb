@@ -12,3 +12,5 @@ end
 def map_to_square(source_array)
   source_array.map { |element| element ** 2 }
 end
+
+def reduct_to_total
